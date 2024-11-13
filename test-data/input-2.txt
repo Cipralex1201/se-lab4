@@ -1,1 +1,4 @@
-git
+GT4500,1,0,2,0
+TORPEDO,SINGLE  # should fire from primary store
+TORPEDO,SINGLE  # should fire from secondary store as primary is empty
+TORPEDO,SINGLE  # should fire from secondary again

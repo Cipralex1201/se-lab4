@@ -1,0 +1,5 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (primary store)
+SUCCESS  # <- TORPEDO (primary store again, as secondary is empty)
+
+

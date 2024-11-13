@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (since fireLaser is not implemented and returns false)
