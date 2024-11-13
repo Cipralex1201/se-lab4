@@ -1,0 +1,3 @@
+GT4500,2,0,0,0  # initialize with torpedoes in primary store only
+TORPEDO,SINGLE  # should fire from primary
+TORPEDO,SINGLE  # should attempt secondary (as primary was last), find it empty, and fire primary again
